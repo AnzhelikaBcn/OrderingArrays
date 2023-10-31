@@ -1,4 +1,5 @@
-//Finding the player with the maximum points from the test data array
+//Finding the player or players with the maximum points from the test data array
+
 function findPlayerWithMaxScore(players) {
   if (players.length === 0) {
     return "Массив игроков пуст.";

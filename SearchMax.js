@@ -1,3 +1,5 @@
+// Finding the ьaximum from an arrays
+
 const players = [
     {
         "id": 1,
